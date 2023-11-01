@@ -1,5 +1,6 @@
 #Author: Aaron Wajah
 #Date: 11/01/2023
+#Description: converts radians to degrees
 
 import math as m #import math module
 
